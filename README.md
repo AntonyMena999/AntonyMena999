@@ -18,33 +18,27 @@
 <h2 align="left"> 🛠️ Tecnologías </h2>
 <table align="center">
   <tr>
-    <td><b>Lenguajes</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/SQL-4479A1" alt="">
-    </td>
-  </tr>
-  <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="">
-      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="">
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="">
       <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="">
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/OAuth%202.0-3C873A" alt="">
-      <img src="https://img.shields.io/badge/.NET%20(nociones)-512BD4?logo=dotnet&logoColor=fff" alt="">
     </td>
   </tr>
   <tr>
@@ -54,30 +48,19 @@
     </td>
   </tr>
   <tr>
-    <td><b>IA y automatización</b></td>
+    <td><b>Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4" alt="">
-      <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/RAG-5865F2" alt="">
-      <img src="https://img.shields.io/badge/Microsoft%20Teams%20Bots-6264A7" alt="">
+      <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff" alt="">
     </td>
   </tr>
   <tr>
-    <td><b>ERP e integración</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SAP%20Integration%20Suite-0FAAFF" alt="">
-      <img src="https://img.shields.io/badge/SAP%20Cloud%20ALM-0FAAFF" alt="">
-      <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF" alt="">
-    </td>
-  </tr>
-  <tr>
-    <td><b>Herramientas</b></td>
+    <td><b>Otros</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Scrum-009FDA" alt="">
-      <img src="https://img.shields.io/badge/Kanban-0079BF" alt="">
+      <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="">
     </td>
   </tr>
 </table>
@@ -97,10 +80,19 @@
   <li><b>ERP Agent:</b> agente de IA con RAG desplegado en Microsoft Teams, y aplicación web con inicio de sesión corporativo.</li>
 </ul>
 
-<p align="left">📌 Mi proyecto de titulación, un asistente con IA que agenda eventos en Google Calendar, está anclado en mi perfil.</p>
+<p align="left">📌 <b>Proyecto destacado:</b> <a href="https://github.com/AntonyMena999/sistema-predictivo-gestion-tiempo-public">asistente con IA y automatización (n8n)</a> que agenda eventos en Google Calendar a partir de lenguaje natural y alerta sobre sobrecarga de actividades. Desarrollado en equipo.</p>
 
 <h2 align="left"> 📊 Estadísticas de GitHub </h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AntonyMena999&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Antony" width="450"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=AntonyMena999&show_icons=true&theme=dark" alt="Estadísticas de GitHub" width="450"/> <br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AntonyMena999&theme=dark&layout=compact" alt="Lenguajes principales" width="450"/>
 </div>
+
+<h2 align="left"> 📈 Contribuciones </h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente de contribuciones de GitHub" src="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/output/github-contribution-grid-snake.svg" />
+</picture>
