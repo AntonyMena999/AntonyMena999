@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="left">🎓 Egresado de Tecnología en Desarrollo de Software (Instituto Superior Tecnológico de Turismo y Patrimonio Yavirac, título en trámite)</h3>
-<h3 align="left">💻 Construyo aplicaciones web y APIs, e integro IA y automatización en procesos reales. Hice 5 semestres de prácticas en el departamento ERP de Grupo KFC Ecuador.</h3>
+<h3 align="left">💻 Construyo aplicaciones web y APIs, e integro IA y automatización en procesos reales.</h3>
 
 <h2 align="left"> 🌐 Contacto </h2>
 <div align="center">
@@ -29,7 +29,6 @@
     <td><b>Backend</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
     </td>
   </tr>
@@ -37,6 +36,7 @@
     <td><b>Frameworks</b></td>
     <td>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="">
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="">
     </td>
@@ -51,6 +51,7 @@
     <td><b>Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?logo=microsoftazure&logoColor=fff" alt="">
     </td>
   </tr>
   <tr>
@@ -61,6 +62,7 @@
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/Teams%20Bots-6264A7?logo=microsoftteams&logoColor=fff" alt="">
     </td>
   </tr>
 </table>
@@ -69,6 +71,7 @@
 
 <h3 align="left"> Prácticas duales · Departamento ERP, Grupo KFC Ecuador (2023-II – 2025-II)</h3>
 <ul>
+  <li>Cinco semestres de prácticas en el departamento ERP.</li>
   <li>Configuré roles y perfiles en SAP y documenté manuales y consultas a bases de datos.</li>
   <li>Desarrollé iFlows y consumí APIs en SAP Integration Suite.</li>
   <li>Supervisé procesos del módulo de operaciones con SAP Cloud ALM y analicé SAP Joule y Joule Studio en SAP BTP.</li>
@@ -92,7 +95,7 @@
 <h2 align="left"> 📈 Contribuciones </h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/output/github-contribution-grid-snake.svg" />
-  <img alt="Serpiente de contribuciones de GitHub" src="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="Serpiente de contribuciones de GitHub" src="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
