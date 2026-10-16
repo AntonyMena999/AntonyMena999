@@ -5,7 +5,7 @@
   Quito, Ecuador 🇪🇨 · Abierto a oportunidades junior, en Quito o remoto
 </p>
 
-<h3 align="left">🎓 Egresado de Tecnología en Desarrollo de Software (Instituto Superior Tecnológico de Turismo y Patrimonio Yavirac, título en trámite)</h3>
+<h3 align="left">🎓 Tecnologo en Desarrollo de Software (YAVIRAC)</h3>
 <h3 align="left">💻 Construyo aplicaciones web y APIs, e integro IA y automatización en procesos reales.</h3>
 
 <h2 align="left"> 🌐 Contacto </h2>
@@ -83,12 +83,11 @@
   <li><b>ERP Agent:</b> agente de IA con RAG desplegado en Microsoft Teams, y aplicación web con inicio de sesión corporativo.</li>
 </ul>
 
-<p align="left">📌 <b>Proyecto destacado:</b> <a href="https://github.com/AntonyMena999/sistema-predictivo-gestion-tiempo-public">asistente con IA y automatización (n8n)</a> que agenda eventos en Google Calendar a partir de lenguaje natural y alerta sobre sobrecarga de actividades. Desarrollado en equipo.</p>
+<p align="left">📌 <b>Proyecto destacado:</b> <a href="https://github.com/AntonyMena999/sistema-predictivo-gestion-tiempo-public">asistente con IA y automatización (n8n)</a> que agenda eventos en Google Calendar a partir de lenguaje natural y alerta sobre sobrecarga de actividades.</p>
 
 <h2 align="left"> 📊 Estadísticas de GitHub </h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AntonyMena999&show_icons=true&theme=dark" alt="Estadísticas de GitHub" width="450"/> <br />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AntonyMena999&theme=dark&layout=compact" alt="Lenguajes principales" width="450"/>
 </div>
 
