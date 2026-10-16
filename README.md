@@ -92,6 +92,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AntonyMena999&theme=dark&layout=compact" alt="Lenguajes principales" width="450"/>
 </div>
 
+<!-- SERPIENTE: quita las marcas de comentario de abajo cuando tu workflow snake.yml ya haya corrido
 <h2 align="left"> 📈 Contribuciones </h2>
 
 <picture>
@@ -99,3 +100,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="Serpiente de contribuciones de GitHub" src="https://raw.githubusercontent.com/AntonyMena999/AntonyMena999/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
+-->
