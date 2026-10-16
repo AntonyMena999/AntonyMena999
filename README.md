@@ -2,7 +2,7 @@
 <h3 align="center"> Desarrollador de Software | Node.js · React · IA y automatización </h3>
 
 <p align="center">
-  Quito, Ecuador 🇪🇨 · Abierto a oportunidades junior, en Quito o remoto
+  Quito, Ecuador 🇪🇨 · Abierto a oportunidades
 </p>
 
 <h3 align="left">🎓 Tecnólogo en Desarrollo de Software (YAVIRAC)</h3>
