@@ -1,16 +1,106 @@
-## Hi there 👋
+<h1 align="center"> Hola 👋, soy Antony Mena </h1>
+<h3 align="center"> Desarrollador de Software | Node.js · React · IA y automatización </h3>
 
-<!--
-**AntonyMena999/AntonyMena999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Quito, Ecuador 🇪🇨 · Abierto a oportunidades junior, en Quito o remoto
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">🎓 Egresado de Tecnología en Desarrollo de Software (Instituto Superior Tecnológico de Turismo y Patrimonio Yavirac, título en trámite)</h3>
+<h3 align="left">💻 Construyo aplicaciones web y APIs, e integro IA y automatización en procesos reales. Hice 5 semestres de prácticas en el departamento ERP de Grupo KFC Ecuador.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left"> 🌐 Contacto </h2>
+<div align="center">
+  <a href="mailto:antony.mena.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
+  <a href="https://github.com/AntonyMena999" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
+
+<h2 align="left"> 🛠️ Tecnologías </h2>
+<table align="center">
+  <tr>
+    <td><b>Lenguajes</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/SQL-4479A1" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="">
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="">
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/OAuth%202.0-3C873A" alt="">
+      <img src="https://img.shields.io/badge/.NET%20(nociones)-512BD4?logo=dotnet&logoColor=fff" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Bases de datos</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td><b>IA y automatización</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4" alt="">
+      <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/RAG-5865F2" alt="">
+      <img src="https://img.shields.io/badge/Microsoft%20Teams%20Bots-6264A7" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td><b>ERP e integración</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SAP%20Integration%20Suite-0FAAFF" alt="">
+      <img src="https://img.shields.io/badge/SAP%20Cloud%20ALM-0FAAFF" alt="">
+      <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF" alt="">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Herramientas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="">
+      <img src="https://img.shields.io/badge/Scrum-009FDA" alt="">
+      <img src="https://img.shields.io/badge/Kanban-0079BF" alt="">
+    </td>
+  </tr>
+</table>
+
+<h2 align="left"> 💼 Experiencia </h2>
+
+<h3 align="left"> Prácticas duales · Departamento ERP, Grupo KFC Ecuador (2023-II – 2025-II)</h3>
+<ul>
+  <li>Configuré roles y perfiles en SAP y documenté manuales y consultas a bases de datos.</li>
+  <li>Desarrollé iFlows y consumí APIs en SAP Integration Suite.</li>
+  <li>Supervisé procesos del módulo de operaciones con SAP Cloud ALM y analicé SAP Joule y Joule Studio en SAP BTP.</li>
+</ul>
+
+<h3 align="left"> Proyectos adicionales en KFC (2026)</h3>
+<ul>
+  <li><b>Monitor Balanzas:</b> hice el frontend en React, el login y la documentación de un sistema para monitorear balanzas industriales en operación multi-país.</li>
+  <li><b>ERP Agent:</b> agente de IA con RAG desplegado en Microsoft Teams, y aplicación web con inicio de sesión corporativo.</li>
+</ul>
+
+<p align="left">📌 Mi proyecto de titulación, un asistente con IA que agenda eventos en Google Calendar, está anclado en mi perfil.</p>
+
+<h2 align="left"> 📊 Estadísticas de GitHub </h2>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=AntonyMena999&show_icons=true&theme=dark" alt="Estadísticas de GitHub de Antony" width="450"/>
+</div>
