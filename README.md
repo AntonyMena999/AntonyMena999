@@ -5,7 +5,7 @@
   Quito, Ecuador 🇪🇨 · Abierto a oportunidades junior, en Quito o remoto
 </p>
 
-<h3 align="left">🎓 Tecnologo en Desarrollo de Software (YAVIRAC)</h3>
+<h3 align="left">🎓 Tecnólogo en Desarrollo de Software (YAVIRAC)</h3>
 <h3 align="left">💻 Construyo aplicaciones web y APIs, e integro IA y automatización en procesos reales.</h3>
 
 <h2 align="left"> 🌐 Contacto </h2>
@@ -38,31 +38,32 @@
       <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="">
       <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="">
-      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" alt="">
     </td>
   </tr>
   <tr>
     <td><b>Bases de datos</b></td>
     <td>
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="">
     </td>
   </tr>
   <tr>
     <td><b>Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4?logo=microsoftazure&logoColor=fff" alt="">
+      <img src="https://api.iconify.design/logos:microsoft-azure.svg" width="22" height="22" alt="">
+      <img src="https://img.shields.io/badge/Azure-0078D4" alt="">
+      <img src="https://img.shields.io/badge/Azure%20AI%20Foundry-0078D4" alt="">
     </td>
   </tr>
   <tr>
     <td><b>Otros</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="">
       <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white" alt="">
       <img src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff" alt="">
-      <img src="https://img.shields.io/badge/Teams%20Bots-6264A7?logo=microsoftteams&logoColor=fff" alt="">
+      <img src="https://api.iconify.design/logos:microsoft-teams.svg" width="22" height="22" alt="">
+      <img src="https://img.shields.io/badge/Teams%20Bots-6264A7" alt="">
     </td>
   </tr>
 </table>
